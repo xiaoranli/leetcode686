@@ -33,7 +33,6 @@ public class RepeatedStringMatch_686 {
     }
 }
 </pre>
-==
 解法二：
 --    
 代码： 
