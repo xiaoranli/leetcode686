@@ -49,7 +49,7 @@ public class RepeatedStringMatch_686 {
     public static int repeatedStringMatch2(String A, String B) {
         StringBuilder builder = new StringBuilder();
         int count = 0;
-        while(builder.length()<B.length()){
+        while(builder.length() < B.length()){
             count++;
             builder.append(A);
         }
